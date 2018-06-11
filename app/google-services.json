@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "38211971702",
+    "firebase_url": "https://teste-do-sidd.firebaseio.com",
+    "project_id": "teste-do-sidd",
+    "storage_bucket": "teste-do-sidd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38211971702:android:9e5789a0de550d2b",
+        "android_client_info": {
+          "package_name": "br.com.roadmaps.mapapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38211971702-la11mpauhds7fbdesdnbh63ff2e3857f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQRna4LggGej8BoWvDdj1OKNp_bh9x5O4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
